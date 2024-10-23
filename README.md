@@ -26,3 +26,7 @@ This Java project demonstrates essential object-oriented programming (OOP) conce
 
    ```bash
    git clone https://github.com/yourusername/mmorpg-hero-weapon.git
+
+1. **Compile and run**:
+```bash
+  javac -d bin src/*.java
